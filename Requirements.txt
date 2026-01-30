@@ -1,0 +1,3 @@
+# No external dependencies / modules required
+# All functionalities are implemented using Python's standard library (tkinter, ast, operator)
+
