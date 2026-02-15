@@ -3,8 +3,6 @@
 A simple and secure **desktop calculator** built using **Python and Tkinter**.  
 This project uses **AST-based expression parsing** instead of `eval()` to safely evaluate arithmetic operations.
 
----
-
 ## ✨ Features
 - Basic operations: Addition, Subtraction, Multiplication, Division
 - Secure expression evaluation (no `eval()`)
@@ -15,14 +13,11 @@ This project uses **AST-based expression parsing** instead of `eval()` to safely
   - **Backspace** → Delete last character
 - Clean and responsive GUI layout
 
----
 
 ## 🛠️ Tech Stack
 - **Python 3**
 - **Tkinter** (GUI)
 - **AST + Operator** (secure math parsing)
-
----
 
 ## ▶️ How to Run
 
